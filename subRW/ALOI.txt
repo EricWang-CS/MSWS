@@ -1,0 +1,92 @@
+Labeled_rate:5	C:0.5	Nei:20	ALOI	0.8513119533527697
+Labeled_rate:10	C:0.5	Nei:20	ALOI	0.9325842696629213
+Labeled_rate:15	C:0.5	Nei:20	ALOI	0.9336235038084875
+Labeled_rate:20	C:0.5	Nei:15	ALOI	0.9620253164556962
+Labeled_rate:25	C:0.5	Nei:15	ALOI	0.9716049382716051
+Labeled_rate:30	C:0.5	Nei:15	ALOI	0.9604743083003952
+Labeled_rate:35	C:0.5	Nei:10	ALOI	0.9647390691114245
+Labeled_rate:40	C:0.5	Nei:10	ALOI	0.9723076923076924
+Labeled_rate:45	C:0.5	Nei:5	ALOI	0.9649415692821369
+Labeled_rate:50	C:0.5	Nei:5	ALOI	0.9555555555555555
+**************************************************
+Labeled_rate:5	C:0.6	Nei:20	ALOI	0.8542274052478134
+Labeled_rate:10	C:0.6	Nei:20	ALOI	0.9325842696629213
+Labeled_rate:15	C:0.6	Nei:20	ALOI	0.9357997823721437
+Labeled_rate:20	C:0.6	Nei:15	ALOI	0.9643268124280783
+Labeled_rate:25	C:0.6	Nei:15	ALOI	0.971604938271605
+Labeled_rate:30	C:0.6	Nei:15	ALOI	0.9617918313570487
+Labeled_rate:35	C:0.6	Nei:10	ALOI	0.9689703808180536
+Labeled_rate:40	C:0.6	Nei:10	ALOI	0.9738461538461538
+Labeled_rate:45	C:0.6	Nei:5	ALOI	0.9716193656093489
+Labeled_rate:50	C:0.6	Nei:5	ALOI	0.9611111111111111
+**************************************************
+Labeled_rate:5	C:0.6	Nei:15	ALOI	0.8445092322643342
+Labeled_rate:10	C:0.6	Nei:15	ALOI	0.9193054136874361
+Labeled_rate:15	C:0.6	Nei:15	ALOI	0.9270946681175192
+Labeled_rate:20	C:0.6	Nei:15	ALOI	0.9643268124280782
+Labeled_rate:25	C:0.6	Nei:10	ALOI	0.9654320987654323
+Labeled_rate:30	C:0.6	Nei:10	ALOI	0.9472990777338601
+Labeled_rate:35	C:0.6	Nei:10	ALOI	0.9689703808180535
+Labeled_rate:40	C:0.6	Nei:5	ALOI	0.963076923076923
+Labeled_rate:45	C:0.6	Nei:5	ALOI	0.9716193656093489
+Labeled_rate:50	C:0.6	Nei:5	ALOI	0.961111111111111
+**************************************************
+Labeled_rate:5	C:0.8	Nei:20	ALOI	0.8532555879494655
+Labeled_rate:10	C:0.8	Nei:20	ALOI	0.9325842696629213
+Labeled_rate:15	C:0.8	Nei:15	ALOI	0.9281828073993472
+Labeled_rate:20	C:0.8	Nei:15	ALOI	0.9643268124280782
+Labeled_rate:25	C:0.8	Nei:10	ALOI	0.9654320987654323
+Labeled_rate:30	C:0.8	Nei:10	ALOI	0.9472990777338601
+Labeled_rate:35	C:0.8	Nei:10	ALOI	0.9661495063469676
+Labeled_rate:40	C:0.8	Nei:5	ALOI	0.963076923076923
+Labeled_rate:45	C:0.8	Nei:5	ALOI	0.9699499165275458
+Labeled_rate:50	C:0.8	Nei:5	ALOI	0.9592592592592591
+**************************************************
+Labeled_rate:5	C:0.7	Nei:20	ALOI	0.8532555879494655
+Labeled_rate:10	C:0.7	Nei:20	ALOI	0.9325842696629213
+Labeled_rate:15	C:0.7	Nei:15	ALOI	0.9281828073993472
+Labeled_rate:20	C:0.7	Nei:15	ALOI	0.9654775604142692
+Labeled_rate:25	C:0.7	Nei:10	ALOI	0.9654320987654323
+Labeled_rate:30	C:0.7	Nei:10	ALOI	0.9486166007905139
+Labeled_rate:35	C:0.7	Nei:10	ALOI	0.9675599435825107
+Labeled_rate:40	C:0.7	Nei:5	ALOI	0.963076923076923
+Labeled_rate:45	C:0.7	Nei:5	ALOI	0.9716193656093489
+Labeled_rate:50	C:0.7	Nei:5	ALOI	0.9592592592592591
+**************************************************
+Labeled_rate:5	C:0.9	Nei:20	ALOI	0.8513119533527697
+Labeled_rate:10	C:0.9	Nei:20	ALOI	0.9305413687436157
+Labeled_rate:15	C:0.9	Nei:15	ALOI	0.9260065288356911
+Labeled_rate:20	C:0.9	Nei:15	ALOI	0.9643268124280782
+Labeled_rate:25	C:0.9	Nei:10	ALOI	0.9641975308641977
+Labeled_rate:30	C:0.9	Nei:10	ALOI	0.9499341238471674
+Labeled_rate:35	C:0.9	Nei:10	ALOI	0.9661495063469676
+Labeled_rate:40	C:0.9	Nei:5	ALOI	0.963076923076923
+Labeled_rate:45	C:0.9	Nei:5	ALOI	0.9699499165275458
+Labeled_rate:50	C:0.9	Nei:5	ALOI	0.9592592592592591
+**************************************************
+Labeled_rate:5	C:0.9	Nei:20	ALOI	0.8513119533527697
+Labeled_rate:10	C:0.9	Nei:20	ALOI	0.9305413687436157
+Labeled_rate:15	C:0.9	Nei:20	ALOI	0.9336235038084875
+Labeled_rate:20	C:0.9	Nei:20	ALOI	0.958573072497123
+Labeled_rate:5	C:0.9	Nei:20	ALOI	0.8715257531584062
+Labeled_rate:10	C:0.9	Nei:20	ALOI	0.9239019407558733
+Labeled_rate:15	C:0.9	Nei:20	ALOI	0.9471164309031556
+Labeled_rate:20	C:0.9	Nei:20	ALOI	0.9556962025316456
+Labeled_rate:25	C:0.9	Nei:20	ALOI	0.9617283950617285
+Labeled_rate:30	C:0.9	Nei:20	ALOI	0.9632411067193676
+Labeled_rate:35	C:0.9	Nei:20	ALOI	0.9710860366713682
+Labeled_rate:40	C:0.9	Nei:20	ALOI	0.9696923076923077
+Labeled_rate:45	C:0.9	Nei:20	ALOI	0.9737896494156928
+Labeled_rate:50	C:0.9	Nei:20	ALOI	0.9764814814814814
+**************************************************
+Labeled_rate:5	C:0.6	Nei:15	Youtube	0.06315789473684211
+Labeled_rate:10	C:0.6	Nei:15	Youtube	0.07166666666666667
+Labeled_rate:15	C:0.6	Nei:15	Youtube	0.05705882352941176
+Labeled_rate:20	C:0.6	Nei:15	Youtube	0.031875
+Labeled_rate:25	C:0.6	Nei:10	Youtube	0.028000000000000004
+Labeled_rate:30	C:0.6	Nei:10	Youtube	0.03571428571428571
+Labeled_rate:35	C:0.6	Nei:10	Youtube	0.023846153846153847
+Labeled_rate:40	C:0.6	Nei:5	Youtube	0.042499999999999996
+Labeled_rate:45	C:0.6	Nei:5	Youtube	0.039090909090909086
+Labeled_rate:50	C:0.6	Nei:5	Youtube	0.03899999999999999
+**************************************************

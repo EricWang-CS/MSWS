@@ -1,0 +1,18 @@
+Labeled_rate:5	C:0.5	Nei:15	NUS-WIDE	0.4218421052631579
+Labeled_rate:10	C:0.5	Nei:15	NUS-WIDE	0.45152777777777786
+Labeled_rate:15	C:0.5	Nei:15	NUS-WIDE	0.45573529411764707
+Labeled_rate:20	C:0.5	Nei:15	NUS-WIDE	0.450703125
+Labeled_rate:25	C:0.5	Nei:15	NUS-WIDE	0.45541666666666664
+Labeled_rate:5	C:0.5	Nei:20	NUS-WIDE	0.40467105263157893
+Labeled_rate:35	C:0.6	Nei:5	NUS-WIDE	0.47192307692307695
+Labeled_rate:40	C:0.6	Nei:5	NUS-WIDE	0.4688541666666667
+Labeled_rate:45	C:0.6	Nei:5	NUS-WIDE	0.4810227272727273
+Labeled_rate:50	C:0.6	Nei:5	NUS-WIDE	0.473125
+**************************************************
+Labeled_rate:5	C:0.8	Nei:20	NUS-WIDE	0.4116447368421053
+Labeled_rate:10	C:0.8	Nei:20	NUS-WIDE	0.4375
+Labeled_rate:15	C:0.8	Nei:20	NUS-WIDE	0.4483088235294117
+Labeled_rate:20	C:0.8	Nei:20	NUS-WIDE	0.4459375
+Labeled_rate:25	C:0.8	Nei:20	NUS-WIDE	0.4605
+Labeled_rate:30	C:0.8	Nei:20	NUS-WIDE	0.4536607142857143
+**************************************************

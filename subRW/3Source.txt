@@ -1,0 +1,103 @@
+**************************************************
+Labeled_rate:15	C:0.6	Nei:10	3Source	0.6741496598639457
+Labeled_rate:20	C:0.6	Nei:10	3Source	0.764963503649635
+Labeled_rate:25	C:0.6	Nei:10	3Source	0.7674418604651162
+Labeled_rate:30	C:0.6	Nei:5	3Source	0.743801652892562
+Labeled_rate:35	C:0.6	Nei:5	3Source	0.7646017699115044
+Labeled_rate:40	C:0.6	Nei:5	3Source	0.7634615384615384
+Labeled_rate:45	C:0.6	Nei:3	3Source	0.7697916666666667
+Labeled_rate:50	C:0.6	Nei:3	3Source	0.786046511627907
+**************************************************
+Labeled_rate:15	C:0.8	Nei:20	3Source	0.7952380952380952
+Labeled_rate:20	C:0.8	Nei:20	3Source	0.8510948905109489
+Labeled_rate:25	C:0.8	Nei:10	3Source	0.7728682170542636
+Labeled_rate:30	C:0.8	Nei:10	3Source	0.815702479338843
+Labeled_rate:35	C:0.8	Nei:10	3Source	0.8008849557522124
+Labeled_rate:40	C:0.8	Nei:5	3Source	0.7625
+Labeled_rate:45	C:0.8	Nei:5	3Source	0.7937500000000001
+Labeled_rate:50	C:0.8	Nei:5	3Source	0.7813953488372093
+**************************************************
+Labeled_rate:15	C:0.9	Nei:20	3Source	0.7979591836734693
+Labeled_rate:20	C:0.9	Nei:20	3Source	0.8510948905109489
+Labeled_rate:25	C:0.9	Nei:10	3Source	0.7713178294573643
+Labeled_rate:30	C:0.9	Nei:10	3Source	0.8115702479338843
+Labeled_rate:35	C:0.9	Nei:10	3Source	0.8017699115044248
+Labeled_rate:40	C:0.9	Nei:5	3Source	0.7625
+Labeled_rate:45	C:0.9	Nei:5	3Source	0.79375
+Labeled_rate:50	C:0.9	Nei:5	3Source	0.786046511627907
+**************************************************
+Labeled_rate:15	C:0.9	Nei:10	3Source	0.682312925170068
+Labeled_rate:20	C:0.9	Nei:10	3Source	0.7751824817518248
+Labeled_rate:25	C:0.9	Nei:10	3Source	0.7713178294573643
+Labeled_rate:30	C:0.9	Nei:10	3Source	0.8115702479338843
+Labeled_rate:35	C:0.9	Nei:10	3Source	0.8017699115044248
+Labeled_rate:40	C:0.9	Nei:10	3Source	0.8076923076923077
+Labeled_rate:45	C:0.9	Nei:10	3Source	0.821875
+Labeled_rate:50	C:0.9	Nei:10	3Source	0.8174418604651164
+**************************************************
+Labeled_rate:15	C:0.9	Nei:15	3Source	0.7387755102040817
+Labeled_rate:20	C:0.9	Nei:15	3Source	0.8197080291970803
+Labeled_rate:25	C:0.9	Nei:15	3Source	0.8062015503875969
+Labeled_rate:30	C:0.9	Nei:15	3Source	0.8347107438016529
+Labeled_rate:35	C:0.9	Nei:15	3Source	0.8336283185840708
+Labeled_rate:40	C:0.9	Nei:15	3Source	0.8326923076923076
+Labeled_rate:45	C:0.9	Nei:15	3Source	0.8375
+Labeled_rate:50	C:0.9	Nei:15	3Source	0.813953488372093
+**************************************************
+Labeled_rate:15	C:0.9	Nei:20	3Source	0.7979591836734693
+Labeled_rate:20	C:0.9	Nei:20	3Source	0.8510948905109489
+Labeled_rate:25	C:0.9	Nei:20	3Source	0.8426356589147286
+Labeled_rate:30	C:0.9	Nei:20	3Source	0.8735537190082644
+Labeled_rate:35	C:0.9	Nei:20	3Source	0.8699115044247787
+Labeled_rate:40	C:0.9	Nei:20	3Source	0.875
+Labeled_rate:45	C:0.9	Nei:20	3Source	0.8822916666666668
+Labeled_rate:50	C:0.9	Nei:20	3Source	0.8523255813953489
+**************************************************
+Labeled_rate:15	C:0.9	Nei:20	3Source	0.7979591836734693
+Labeled_rate:20	C:0.9	Nei:20	3Source	0.8510948905109489
+Labeled_rate:25	C:0.9	Nei:20	3Source	0.8426356589147286
+Labeled_rate:30	C:0.9	Nei:20	3Source	0.8735537190082644
+Labeled_rate:35	C:0.9	Nei:20	3Source	0.8699115044247787
+Labeled_rate:40	C:0.9	Nei:20	3Source	0.875
+Labeled_rate:45	C:0.9	Nei:20	3Source	0.8822916666666668
+Labeled_rate:50	C:0.9	Nei:20	3Source	0.8523255813953489
+**************************************************
+Labeled_rate:25	C:0.9	Nei:15	3Source	0.8062015503875969
+Labeled_rate:30	C:0.9	Nei:15	3Source	0.8347107438016529
+Labeled_rate:35	C:0.9	Nei:10	3Source	0.8017699115044248
+Labeled_rate:40	C:0.9	Nei:10	3Source	0.8076923076923077
+Labeled_rate:45	C:0.9	Nei:5	3Source	0.79375
+Labeled_rate:50	C:0.9	Nei:5	3Source	0.786046511627907
+**************************************************
+Labeled_rate:10	C:0.8	Nei:20	3Source	0.6954545454545455
+Labeled_rate:15	C:0.8	Nei:20	3Source	0.7952380952380952
+Labeled_rate:20	C:0.8	Nei:20	3Source	0.8510948905109489
+Labeled_rate:25	C:0.8	Nei:20	3Source	0.8410852713178294
+Labeled_rate:30	C:0.8	Nei:20	3Source	0.8743801652892562
+Labeled_rate:35	C:0.8	Nei:20	3Source	0.8672566371681416
+Labeled_rate:40	C:0.8	Nei:20	3Source	0.8769230769230768
+Labeled_rate:45	C:0.8	Nei:20	3Source	0.884375
+Labeled_rate:50	C:0.8	Nei:20	3Source	0.8546511627906976
+**************************************************
+Labeled_rate:5	C:0.8	Nei:20	3Source	0.7136645962732919
+Labeled_rate:10	C:0.8	Nei:20	3Source	0.7038961038961039
+Labeled_rate:15	C:0.8	Nei:20	3Source	0.7877551020408163
+Labeled_rate:20	C:0.8	Nei:20	3Source	0.8007299270072993
+Labeled_rate:25	C:0.8	Nei:20	3Source	0.8581395348837209
+Labeled_rate:30	C:0.8	Nei:20	3Source	0.8570247933884296
+Labeled_rate:35	C:0.8	Nei:20	3Source	0.8716814159292035
+Labeled_rate:40	C:0.8	Nei:20	3Source	0.864423076923077
+Labeled_rate:45	C:0.8	Nei:20	3Source	0.859375
+Labeled_rate:50	C:0.8	Nei:20	3Source	0.872093023255814
+**************************************************
+Labeled_rate:5	C:0.8	Nei:20	3Source	0.7142857142857142
+Labeled_rate:10	C:0.8	Nei:20	3Source	0.7051948051948053
+Labeled_rate:15	C:0.8	Nei:20	3Source	0.7884353741496599
+Labeled_rate:20	C:0.8	Nei:20	3Source	0.8
+Labeled_rate:25	C:0.8	Nei:20	3Source	0.8589147286821704
+Labeled_rate:30	C:0.8	Nei:20	3Source	0.8570247933884296
+Labeled_rate:35	C:0.8	Nei:20	3Source	0.8716814159292035
+Labeled_rate:40	C:0.8	Nei:20	3Source	0.8634615384615385
+Labeled_rate:45	C:0.8	Nei:20	3Source	0.8604166666666666
+Labeled_rate:50	C:0.8	Nei:20	3Source	0.872093023255814
+**************************************************

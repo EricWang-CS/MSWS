@@ -1,0 +1,72 @@
+Traceback (most recent call last):
+  File "/home/linpf/anaconda3/lib/python3.7/site-packages/scipy/io/matlab/mio.py", line 39, in _open_file
+    return open(file_like, mode), True
+FileNotFoundError: [Errno 2] No such file or directory: '../data/Caltech101-20.mat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/linpf/lab_experiments/newMultiSubRW/subMRW_CAL20_Weighed.py", line 14, in <module>
+    data = scio.loadmat("../data/" + DATASET + ".mat")
+  File "/home/linpf/anaconda3/lib/python3.7/site-packages/scipy/io/matlab/mio.py", line 216, in loadmat
+    with _open_file_context(file_name, appendmat) as f:
+  File "/home/linpf/anaconda3/lib/python3.7/contextlib.py", line 112, in __enter__
+    return next(self.gen)
+  File "/home/linpf/anaconda3/lib/python3.7/site-packages/scipy/io/matlab/mio.py", line 19, in _open_file_context
+    f, opened = _open_file(file_like, appendmat, mode)
+  File "/home/linpf/anaconda3/lib/python3.7/site-packages/scipy/io/matlab/mio.py", line 45, in _open_file
+    return open(file_like, mode), True
+FileNotFoundError: [Errno 2] No such file or directory: '../data/Caltech101-20.mat'
+/home/linpf/anaconda3/bin/python3: can't open file '/home/linpf/lab_experiments/newMultiSubRW/subMRW_CAL7_weighed.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "/home/linpf/anaconda3/lib/python3.7/site-packages/scipy/io/matlab/mio.py", line 39, in _open_file
+    return open(file_like, mode), True
+FileNotFoundError: [Errno 2] No such file or directory: '../data/Caltech101-7.mat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/linpf/lab_experiments/newMultiSubRW/subMRW_CAL7_Weighed.py", line 13, in <module>
+    data = scio.loadmat("../data/" + DATASET + ".mat")
+  File "/home/linpf/anaconda3/lib/python3.7/site-packages/scipy/io/matlab/mio.py", line 216, in loadmat
+    with _open_file_context(file_name, appendmat) as f:
+  File "/home/linpf/anaconda3/lib/python3.7/contextlib.py", line 112, in __enter__
+    return next(self.gen)
+  File "/home/linpf/anaconda3/lib/python3.7/site-packages/scipy/io/matlab/mio.py", line 19, in _open_file_context
+    f, opened = _open_file(file_like, appendmat, mode)
+  File "/home/linpf/anaconda3/lib/python3.7/site-packages/scipy/io/matlab/mio.py", line 45, in _open_file
+    return open(file_like, mode), True
+FileNotFoundError: [Errno 2] No such file or directory: '../data/Caltech101-7.mat'
+Traceback (most recent call last):
+  File "/home/linpf/anaconda3/lib/python3.7/site-packages/scipy/io/matlab/mio.py", line 39, in _open_file
+    return open(file_like, mode), True
+FileNotFoundError: [Errno 2] No such file or directory: '../data/Caltech101-7.mat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/linpf/lab_experiments/newMultiSubRW/subMRW_CAL7_Weighed.py", line 13, in <module>
+    data = scio.loadmat("../data/" + DATASET + ".mat")
+  File "/home/linpf/anaconda3/lib/python3.7/site-packages/scipy/io/matlab/mio.py", line 216, in loadmat
+    with _open_file_context(file_name, appendmat) as f:
+  File "/home/linpf/anaconda3/lib/python3.7/contextlib.py", line 112, in __enter__
+    return next(self.gen)
+  File "/home/linpf/anaconda3/lib/python3.7/site-packages/scipy/io/matlab/mio.py", line 19, in _open_file_context
+    f, opened = _open_file(file_like, appendmat, mode)
+  File "/home/linpf/anaconda3/lib/python3.7/site-packages/scipy/io/matlab/mio.py", line 45, in _open_file
+    return open(file_like, mode), True
+FileNotFoundError: [Errno 2] No such file or directory: '../data/Caltech101-7.mat'
+/home/linpf/anaconda3/bin/python3: can't open file '/home/linpf/lab_experiments/newMultiSubRW/subMRW_CAL7_Weighed.py': [Errno 2] No such file or directory
+/home/linpf/anaconda3/bin/python3: can't open file '/home/linpf/lab_experiments/newMultiSubRW/subMRW_CAL7_Weighed.py': [Errno 2] No such file or directory
+/home/linpf/anaconda3/bin/python3: can't open file '/home/linpf/lab_experiments/newMultiSubRW/subMRW_CAL7_Weighed.py': [Errno 2] No such file or directory
+9 : 9
+99 : 99
+999 : 351
+9999 : 927
+99999 : 2151
+Traceback (most recent call last):
+  File "/home/linpf/lab_experiments/tests.py", line 23, in <module>
+    if two(i):
+  File "/home/linpf/lab_experiments/tests.py", line 10, in two
+    if not num_set.__contains__(x[i]):
+KeyboardInterrupt

@@ -1,0 +1,5 @@
+Labeled_rate:30	C:0.6	Nei:5	3Source	0.743801652892562
+Labeled_rate:35	C:0.6	Nei:5	3Source	0.7646017699115044
+Labeled_rate:40	C:0.6	Nei:5	3Source	0.7634615384615384
+Labeled_rate:45	C:0.6	Nei:5	3Source	0.7885416666666666
+Labeled_rate:50	C:0.6	Nei:5	3Source	0.7802325581395348

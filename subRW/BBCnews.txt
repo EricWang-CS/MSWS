@@ -1,0 +1,134 @@
+Labeled_rate:5	C:0.5	Nei:15	BBCnews	0.7473200612557427
+Labeled_rate:10	C:0.5	Nei:15	BBCnews	0.8262135922330097
+Labeled_rate:15	C:0.5	Nei:15	BBCnews	0.8410256410256409
+Labeled_rate:20	C:0.5	Nei:10	BBCnews	0.8656363636363636
+Labeled_rate:25	C:0.5	Nei:10	BBCnews	0.8513565891472867
+Labeled_rate:30	C:0.5	Nei:10	BBCnews	0.871161825726141
+Labeled_rate:35	C:0.5	Nei:5	BBCnews	0.8645089285714285
+Labeled_rate:40	C:0.5	Nei:5	BBCnews	0.8661016949152543
+Labeled_rate:45	C:0.5	Nei:3	BBCnews	0.865263157894737
+Labeled_rate:50	C:0.5	Nei:3	BBCnews	0.8760932944606414
+**************************************************
+Labeled_rate:35	C:0.5	Nei:15	BBCnews	0.8834821428571429
+Labeled_rate:40	C:0.5	Nei:15	BBCnews	0.8808716707021793
+Labeled_rate:45	C:0.5	Nei:15	BBCnews	0.8784210526315789
+Labeled_rate:50	C:0.5	Nei:15	BBCnews	0.8830903790087465
+**************************************************
+Labeled_rate:5	C:0.5	Nei:20	BBCnews	0.7555895865237365
+Labeled_rate:10	C:0.5	Nei:20	BBCnews	0.8393203883495145
+Labeled_rate:15	C:0.5	Nei:20	BBCnews	0.8533333333333333
+Labeled_rate:20	C:0.5	Nei:15	BBCnews	0.8698181818181817
+Labeled_rate:25	C:0.5	Nei:15	BBCnews	0.8563953488372092
+Labeled_rate:30	C:0.5	Nei:15	BBCnews	0.8778008298755188
+Labeled_rate:35	C:0.5	Nei:10	BBCnews	0.8765625
+Labeled_rate:40	C:0.5	Nei:10	BBCnews	0.8745762711864407
+Labeled_rate:45	C:0.5	Nei:10	BBCnews	0.873421052631579
+Labeled_rate:50	C:0.5	Nei:10	BBCnews	0.8769679300291546
+**************************************************
+Labeled_rate:20	C:0.5	Nei:20	BBCnews	0.8781818181818182
+Labeled_rate:25	C:0.5	Nei:20	BBCnews	0.8660852713178295
+Labeled_rate:30	C:0.5	Nei:20	BBCnews	0.8821576763485478
+Labeled_rate:35	C:0.5	Nei:20	BBCnews	0.8899553571428573
+Labeled_rate:40	C:0.5	Nei:20	BBCnews	0.8869249394673124
+Labeled_rate:45	C:0.5	Nei:20	BBCnews	0.8907894736842105
+Labeled_rate:50	C:0.5	Nei:20	BBCnews	0.8886297376093294
+**************************************************
+Labeled_rate:5	C:0.5	Nei:25	BBCnews	0.7673813169984686
+Labeled_rate:10	C:0.5	Nei:25	BBCnews	0.851294498381877
+Labeled_rate:15	C:0.5	Nei:25	BBCnews	0.8557264957264957
+Labeled_rate:20	C:0.5	Nei:25	BBCnews	0.8736363636363637
+Labeled_rate:25	C:0.5	Nei:25	BBCnews	0.8614341085271316
+Labeled_rate:30	C:0.5	Nei:25	BBCnews	0.8800829875518673
+Labeled_rate:35	C:0.5	Nei:25	BBCnews	0.8892857142857142
+Labeled_rate:40	C:0.5	Nei:25	BBCnews	0.8813559322033899
+Labeled_rate:45	C:0.5	Nei:25	BBCnews	0.885
+Labeled_rate:50	C:0.5	Nei:25	BBCnews	0.8889212827988338
+**************************************************
+Labeled_rate:5	C:0.6	Nei:20	BBCnews	0.7617151607963246
+Labeled_rate:10	C:0.6	Nei:20	BBCnews	0.8415857605177992
+Labeled_rate:15	C:0.6	Nei:20	BBCnews	0.8567521367521369
+Labeled_rate:20	C:0.6	Nei:20	BBCnews	0.8796363636363637
+Labeled_rate:25	C:0.6	Nei:20	BBCnews	0.8689922480620155
+Labeled_rate:30	C:0.6	Nei:20	BBCnews	0.8840248962655602
+Labeled_rate:35	C:0.6	Nei:20	BBCnews	0.8912946428571429
+Labeled_rate:40	C:0.6	Nei:20	BBCnews	0.8878934624697337
+Labeled_rate:45	C:0.6	Nei:20	BBCnews	0.8907894736842105
+Labeled_rate:50	C:0.6	Nei:20	BBCnews	0.8921282798833818
+**************************************************
+Labeled_rate:5	C:0.6	Nei:25	BBCnews	0.775957120980092
+Labeled_rate:10	C:0.6	Nei:25	BBCnews	0.8542071197411003
+Labeled_rate:15	C:0.6	Nei:25	BBCnews	0.86
+Labeled_rate:20	C:0.6	Nei:25	BBCnews	0.8774545454545454
+Labeled_rate:25	C:0.6	Nei:25	BBCnews	0.8653100775193799
+Labeled_rate:30	C:0.6	Nei:25	BBCnews	0.8825726141078839
+Labeled_rate:35	C:0.6	Nei:25	BBCnews	0.8933035714285715
+Labeled_rate:40	C:0.6	Nei:25	BBCnews	0.8854721549636805
+Labeled_rate:45	C:0.6	Nei:25	BBCnews	0.8884210526315789
+Labeled_rate:50	C:0.6	Nei:25	BBCnews	0.8915451895043731
+**************************************************
+Labeled_rate:5	C:0.8	Nei:20	BBCnews	0.7675344563552834
+Labeled_rate:10	C:0.8	Nei:20	BBCnews	0.8440129449838187
+Labeled_rate:15	C:0.8	Nei:20	BBCnews	0.857777777777778
+Labeled_rate:20	C:0.8	Nei:20	BBCnews	0.8823636363636365
+Labeled_rate:25	C:0.8	Nei:20	BBCnews	0.8724806201550388
+Labeled_rate:30	C:0.8	Nei:20	BBCnews	0.8854771784232366
+Labeled_rate:35	C:0.8	Nei:20	BBCnews	0.8946428571428571
+Labeled_rate:40	C:0.8	Nei:20	BBCnews	0.8871670702179177
+Labeled_rate:45	C:0.8	Nei:20	BBCnews	0.8907894736842105
+Labeled_rate:50	C:0.8	Nei:20	BBCnews	0.8935860058309038
+**************************************************
+Labeled_rate:5	C:0.9	Nei:20	BBCnews	0.7669218989280245
+Labeled_rate:10	C:0.9	Nei:20	BBCnews	0.8441747572815533
+Labeled_rate:15	C:0.9	Nei:20	BBCnews	0.8565811965811967
+Labeled_rate:20	C:0.9	Nei:20	BBCnews	0.8832727272727272
+Labeled_rate:25	C:0.9	Nei:20	BBCnews	0.8726744186046511
+Labeled_rate:30	C:0.9	Nei:20	BBCnews	0.8848547717842324
+Labeled_rate:35	C:0.9	Nei:20	BBCnews	0.8935267857142858
+Labeled_rate:40	C:0.9	Nei:20	BBCnews	0.8883777239709444
+Labeled_rate:45	C:0.9	Nei:20	BBCnews	0.8905263157894737
+Labeled_rate:50	C:0.9	Nei:20	BBCnews	0.8938775510204081
+**************************************************
+Labeled_rate:5	C:0.9	Nei:20	BBCnews	0.7669218989280245
+Labeled_rate:10	C:0.9	Nei:20	BBCnews	0.8441747572815533
+Labeled_rate:15	C:0.9	Nei:20	BBCnews	0.8565811965811967
+Labeled_rate:20	C:0.9	Nei:20	BBCnews	0.8832727272727272
+Labeled_rate:25	C:0.9	Nei:20	BBCnews	0.8726744186046511
+Labeled_rate:30	C:0.9	Nei:20	BBCnews	0.8848547717842324
+Labeled_rate:35	C:0.9	Nei:20	BBCnews	0.8935267857142858
+Labeled_rate:40	C:0.9	Nei:20	BBCnews	0.8883777239709444
+Labeled_rate:45	C:0.9	Nei:20	BBCnews	0.8905263157894737
+Labeled_rate:50	C:0.9	Nei:20	BBCnews	0.8938775510204081
+**************************************************
+Labeled_rate:5	C:0.9	Nei:20	BBCnews	0.7669218989280245
+Labeled_rate:10	C:0.9	Nei:20	BBCnews	0.8441747572815533
+Labeled_rate:15	C:0.9	Nei:20	BBCnews	0.8565811965811967
+Labeled_rate:20	C:0.9	Nei:20	BBCnews	0.8832727272727272
+Labeled_rate:25	C:0.9	Nei:20	BBCnews	0.8726744186046511
+Labeled_rate:30	C:0.9	Nei:20	BBCnews	0.8848547717842324
+Labeled_rate:35	C:0.9	Nei:20	BBCnews	0.8935267857142858
+Labeled_rate:40	C:0.9	Nei:20	BBCnews	0.8883777239709444
+Labeled_rate:45	C:0.9	Nei:20	BBCnews	0.8905263157894737
+Labeled_rate:50	C:0.9	Nei:20	BBCnews	0.8938775510204081
+**************************************************
+Labeled_rate:5	C:0.9	Nei:25	BBCnews	0.7846860643185299
+Labeled_rate:10	C:0.9	Nei:25	BBCnews	0.8567961165048544
+Labeled_rate:15	C:0.9	Nei:20	BBCnews	0.8565811965811967
+Labeled_rate:20	C:0.9	Nei:20	BBCnews	0.8832727272727272
+Labeled_rate:25	C:0.9	Nei:15	BBCnews	0.8620155038759689
+Labeled_rate:30	C:0.9	Nei:15	BBCnews	0.8800829875518673
+Labeled_rate:35	C:0.9	Nei:10	BBCnews	0.8734375
+Labeled_rate:40	C:0.9	Nei:10	BBCnews	0.8779661016949152
+Labeled_rate:45	C:0.9	Nei:5	BBCnews	0.876578947368421
+Labeled_rate:50	C:0.9	Nei:5	BBCnews	0.8752186588921284
+**************************************************
+Labeled_rate:5	C:0.5	Nei:25	BBCnews	0.7673813169984686
+Labeled_rate:10	C:0.5	Nei:25	BBCnews	0.851294498381877
+Labeled_rate:15	C:0.5	Nei:20	BBCnews	0.8533333333333333
+Labeled_rate:20	C:0.5	Nei:20	BBCnews	0.8781818181818182
+Labeled_rate:25	C:0.5	Nei:15	BBCnews	0.8563953488372092
+Labeled_rate:30	C:0.5	Nei:15	BBCnews	0.8778008298755188
+Labeled_rate:35	C:0.5	Nei:10	BBCnews	0.8765625
+Labeled_rate:40	C:0.5	Nei:10	BBCnews	0.8745762711864407
+Labeled_rate:45	C:0.5	Nei:5	BBCnews	0.874736842105263
+Labeled_rate:50	C:0.5	Nei:5	BBCnews	0.878134110787172
+**************************************************
